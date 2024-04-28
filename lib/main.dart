@@ -26,6 +26,7 @@ class DigitalCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.yellow,
         title: Text('Digital Card Kelompok 5 (Kartu Anggota Himpunan)'),
         centerTitle: true,
       ),
